@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Soujanya Restaurant</title>
+</head>
+<body>
+<h1>Welcome to S Restaurant</h1>
+<h2>Our Menu</h2>
+<h3>Tiffins</h3>
+<pre>
+Dosa       30/-
+Idly       25/-
+Vada       30/-
+upma       20/-
+</pre>
+<h3>VEG</h3>
+<pre>
+ Veg Biryani        100/-
+ Mushroom Biryani   120/-
+ jeera rice         100/-
+ Veg fried rice     110/-
+ Paneer biryani     150/-
+<pre>
+<h3>ROTI</h3>
+<pre>
+Butter Roti          50/-
+Tandoori Roti        80/-
+Naan                 60/-
+Butter Naan          70/-
+Garlic Butter Naan   80/-
+</pre>
+<h3>Non-VEG</h3>
+<pre>
+Chicken Biryani      120/-
+Chicken Dum Biryani  120/-
+prawns Biryani       200/-
+egg Biryani          120/-
+egg dum biryani      120/-
+Mutton Biryani       200/-
+Mutton dum Biryani   200/-
+<h2>Opening Hours</h2>
+<pre>
+Monday - Thursday: 11am - 10pm
+Friday - Saturday: 11am - 11pm
+Sunday: 12pm - 9pm
+</pre>
